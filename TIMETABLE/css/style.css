@@ -1,0 +1,13 @@
+table,th,td{
+    border: 3px solid black;
+    border-collapse:collapse;
+    padding: 10px;
+    padding-left: 10px;
+    margin:0px auto;
+    background-color:rgb(255, 255, 255);
+}
+body{
+    padding: 150px;
+    background-color:aliceblue;
+}
+
